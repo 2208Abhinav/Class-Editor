@@ -1,0 +1,5 @@
+.btn {
+    color: var(--text-color, #fff);
+    background-color: var(--background-color, #FF851B);
+    padding: 6px 12px;
+}

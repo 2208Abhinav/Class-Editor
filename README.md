@@ -1,6 +1,7 @@
 # Class Editor
 
-Default Button style:
+Default Button style as shown:
+<br>
 ![initial](initial.JPG)
 
 ## Testing

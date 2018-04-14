@@ -35,8 +35,8 @@
     //from table USER CUSTOM STYLES
 
     //for now using POST values
-    $user_text_color = (string)$_POST['color'];
-    $user_bg_color = (string)$_POST['bgcolor'];
+    $user_text_color = $_POST['color'];
+    $user_bg_color = $_POST['bgcolor'];
 
     //script to update DOM with changes
     echo('<script type="text/javascript">');
